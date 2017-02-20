@@ -1,0 +1,95 @@
+body {
+    background-image: url(bg-3.jpg);
+    color:#000;
+}
+.text-header{
+	font-family: 'Montserrat';
+	font-weight: bold;
+	font-size: 14px;
+	color: #000;
+	text-align: center;
+	padding-top: 20px;
+}
+.input-money{
+	font-family: 'Montserrat';
+	font-weight: medium;
+	width: 250px;
+	height: 40px;
+	margin: 0 auto;
+	margin-left: 75px;
+	margin-top: 15px;
+	padding: 8px 20px;
+	border: 1px solid #000;
+	color: #000;
+	background: transparent;
+	cursor: pointer;
+}
+.money{
+	width: 200px;
+	height: 30px;
+	margin-bottom: 10px;
+	padding-left: 10px;
+}
+.select{
+	font-family: 'Montserrat';
+	width: 200px;
+	height: 30px;
+	padding-left: 10px;
+}
+.submit{
+	font-family: 'Montserrat';
+	width: 130px;
+	height: 40px;
+	background: transparent;
+	border: 1px solid #000;
+	font-size: 12px;
+	color: #000;
+	margin-top: 40px;
+	margin-left: 135px;
+	transition : 0.5s;
+}
+.submit:hover{
+	background-color: #000;
+	color: #fff;
+	cursor: pointer;
+}
+.box-input{
+	width: 400px;
+	height: 330px;
+	background-color: #fff;
+	margin: 0 auto;
+	margin-top: 60px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 0px 19px -4px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 19px -4px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 19px -4px rgba(0,0,0,0.75);
+}
+.logo{
+	font-family: 'Montserrat';
+	font-weight: bold;
+	text-align: center;
+	font-size: 60px;
+	color: #000;
+	margin-top: 30px;
+}
+.btn-back{
+	font-family: 'Montserrat';
+	margin: 0 auto;
+	margin-top: 50px;
+	width: 130px;
+	height: 40px;
+	background-color: transparent;
+	border: 1px solid #000;
+	transition: 0.5s;
+}
+.btn-back:hover{
+	background-color: #000;
+	color: #fff;
+	cursor: pointer;
+}
+.header-backpage{
+	font-family: 'Montserrat';
+	font-size: 20px;
+	padding-top: 70px;
+	padding-bottom: 20px;
+}
